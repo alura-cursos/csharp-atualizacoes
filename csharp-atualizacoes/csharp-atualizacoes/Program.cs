@@ -15,7 +15,9 @@ namespace csharp_atualizacoes
                 "2. Inicializadores De Propriedade Automática",
                 "3. Membros Com Corpo De Expressão",
                 "4. Using Static",
-                "5. Operadores Null-Condicionais"
+                "5. Operadores Null-Condicionais",
+                "6. Interpolação De Cadeia De Caracteres",
+                "7. Expressões nameOf"
             };
 
             Console.WriteLine("ÍNDICE DE PROGRAMAS");
@@ -52,6 +54,12 @@ namespace csharp_atualizacoes
                         break;
                     case 5:
                         new CSharp6.R05.Programa().Main();
+                        break;
+                    case 6:
+                        new CSharp6.R06.Programa().Main();
+                        break;
+                    case 7:
+                        new CSharp6.R07.Programa().Main();
                         break;
                     default:
                         break;

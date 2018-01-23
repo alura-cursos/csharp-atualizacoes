@@ -45,6 +45,8 @@
     <Compile Include="Aula1\R01.PropriedadesAutomaticasSomenteLeitura\csharp-6.cs" />
     <Compile Include="Aula1\R02.InicializadoresDePropriedadeAutomatica\csharp-6.cs" />
     <Compile Include="Aula1\R03.MembrosComSintaxeDeExpressao\csharp-6.cs" />
+    <Compile Include="Aula2\R04.UsingStatic\csharp-6.cs" />
+    <Compile Include="Aula2\R05.OperadoresNullCondicionais\csharp-6.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
